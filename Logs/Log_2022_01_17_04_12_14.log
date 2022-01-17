@@ -1,0 +1,9 @@
+2022-01-17 00:04:38,522  INFO [main] OutstationStepDef:14 - URL Opened
+2022-01-17 00:04:40,060  INFO [main] OutstationStepDef:14 - from place is clicked in page outstation
+2022-01-17 00:04:40,951  INFO [main] OutstationStepDef:14 - from place is send in page frombox
+2022-01-17 00:04:41,917  INFO [main] OutstationStepDef:14 - to place is clicked in page outstation
+2022-01-17 00:04:42,656  INFO [main] OutstationStepDef:14 - to place is send in page to box
+2022-01-17 00:04:43,573  INFO [main] OutstationStepDef:14 - to place is clicked in page outstation
+2022-01-17 00:04:49,112  INFO [main] OutstationStepDef:14 - select car is clicked in page outstation
+2022-01-17 00:04:51,458  INFO [main] OutstationStepDef:14 - Successfully verified
+2022-01-17 00:04:54,284  INFO [main] OutstationStepDef:14 - home button is clicked in page home page
